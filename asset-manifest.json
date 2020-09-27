@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vova/static/css/main.28f2d0cf.chunk.css",
+    "main.js": "/vova/static/js/main.665b4de4.chunk.js",
+    "main.js.map": "/vova/static/js/main.665b4de4.chunk.js.map",
+    "runtime-main.js": "/vova/static/js/runtime-main.17ffc7e0.js",
+    "runtime-main.js.map": "/vova/static/js/runtime-main.17ffc7e0.js.map",
+    "static/js/2.57067ad2.chunk.js": "/vova/static/js/2.57067ad2.chunk.js",
+    "static/js/2.57067ad2.chunk.js.map": "/vova/static/js/2.57067ad2.chunk.js.map",
+    "index.html": "/vova/index.html",
+    "precache-manifest.0a39fdf582e0531ebd118ca77a33cf70.js": "/vova/precache-manifest.0a39fdf582e0531ebd118ca77a33cf70.js",
+    "service-worker.js": "/vova/service-worker.js",
+    "static/css/main.28f2d0cf.chunk.css.map": "/vova/static/css/main.28f2d0cf.chunk.css.map",
+    "static/js/2.57067ad2.chunk.js.LICENSE": "/vova/static/js/2.57067ad2.chunk.js.LICENSE",
+    "static/media/App.css": "/vova/static/media/img-8.ebf6a151.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17ffc7e0.js",
+    "static/js/2.57067ad2.chunk.js",
+    "static/css/main.28f2d0cf.chunk.css",
+    "static/js/main.665b4de4.chunk.js"
+  ]
+}
